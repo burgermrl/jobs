@@ -6,7 +6,6 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 
 ## Roles Available:
 
-- [Technical Lead](https://github.com/bosonprotocol/jobs/blob/master/Tech-Lead-Protocol.md)
 - [Senior Blockchain Engineer](https://github.com/bosonprotocol/jobs/edit/master/blockchain-engineer.md)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
