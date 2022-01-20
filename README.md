@@ -6,7 +6,7 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 
 ## Roles Available:
 
-- [Senior Blockchain Engineer](https://github.com/bosonprotocol/jobs/edit/master/blockchain-engineer.md)
+- [Senior Blockchain Engineer](https://github.com/burgermrl/jobs/blob/master/blockchain-engineer.md)
 - [QA Engineer](https://github.com/bosonprotocol/jobs/blob/master/qa-engineer.md)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
