@@ -9,7 +9,7 @@ Our job site is [here](https://boards.greenhouse.io/bosonprotocol): but, because
 - [Senior Blockchain Engineer](https://github.com/burgermrl/jobs/blob/master/blockchain-engineer.md)
 - [Full Stack Engineer](https://github.com/burgermrl/jobs/blob/master/full-stack-engineer.md)
 - [Infrastructure Engineer](https://github.com/burgermrl/jobs/blob/master/inf-engineer.md)
-- 
+- [Senior Backend Engineer](https://github.com/burgermrl/jobs/blob/master/Senior-Backend-Developer.md)
 
 All of our positions are **full time, remote-first,** and **pay competitively.**
 
